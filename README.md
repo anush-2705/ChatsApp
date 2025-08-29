@@ -1,4 +1,5 @@
-#ChatsApp
+ChatsApp
+
 This is a simple chat application developed for Android, built using Android Studio. This project demonstrates my proficiency in Android development, including building a robust user interface, handling real-time data, and ensuring functionality through a strong, logic-based testing approach.
 
 The app was created as a practical exercise in mobile development, with a focus on core concepts that are fundamental to creating a functional and reliable application.
